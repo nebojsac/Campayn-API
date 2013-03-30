@@ -25,14 +25,13 @@ However, we are planning on allowing the use of a versionless URL that would use
 
 
 
-API Endpoints (TODO)
+API Endpoints (TODO link to the endpoint .md files on github)
 -------------------
 
 * [Lists](#)
 * [Contacts](#)
 * [Forms](#)
 * [Emails](#)
-* [Forms](#)
 
 
 (Hint: Press `t` to enable the file finder and type out the endpoint you need!)
@@ -96,6 +95,6 @@ Conventions in the API documentation
 
 In the documentation that follows, the following notation is used:
 
-    #{text}: Indicates text that should be replaced by your own data
+    {text}: Indicates text that should be replaced by your own data
 
     ...: Indicates content from the response has been elided for brevity in documentation. See the list of data responses at the end of the page for a full description of the format of that response type.
