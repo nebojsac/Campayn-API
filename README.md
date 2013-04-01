@@ -25,13 +25,13 @@ However, we are planning on allowing the use of a versionless URL that would use
 
 
 
-API Endpoints (TODO link to the endpoint .md files on github)
+API Endpoints
 -------------------
 
-* [Lists](#)
-* [Contacts](#)
-* [Forms](#)
-* [Emails](#)
+* [Lists](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/lists.md)
+* [Contacts](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/contacts.md)
+* [Forms](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/forms.md)
+* [Emails](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/emails.md)
 
 
 (Hint: Press `t` to enable the file finder and type out the endpoint you need!)

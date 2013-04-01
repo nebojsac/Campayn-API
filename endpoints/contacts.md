@@ -5,7 +5,7 @@ TODO add data reference
 
 ## Get Contacts ##
 
-To be able to retrieve contacts, you'll need to know the list id to which the contacts belong to. For more info see `lists`.
+To be able to retrieve contacts, you'll need to know the list id to which the contacts belong to. For more info see [lists](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/lists.md).
 
 `GET /lists/{list_id}/contacts.json` returns a collection of contacts that are associated with that specific list.
 

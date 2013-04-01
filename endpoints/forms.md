@@ -5,7 +5,7 @@ TODO add data reference.
 
 ## Get Forms ##
 
-`GET /lists/{list_id}/forms.json` returns a collection of forms that are associated with that specific list.
+`GET /lists/{list_id}/forms.json` returns a collection of forms that are associated with that specific list. For more info see [lists](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/lists.md).
 
 **Response:**
 
