@@ -11,6 +11,8 @@ The Campayn API only supports the JSON format for requests and responses. Reques
 Wrappers and example code
 -------------------------
 
+[PHP](https://github.com/MiroslavMerinsky/Campayn)
+
 Wrote your own API wrapper? Feel free to open a pull request and add to this list!
 
 
