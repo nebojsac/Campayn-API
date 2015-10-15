@@ -55,4 +55,4 @@ If you pass the contact "email" address, then all contacts on that list, with th
       "unsubscribeCount" : 1
     }
     
-Neither of these unsubscribes will not show up in Reporting.
+Neither of these unsubscribes will show up in Reporting.
