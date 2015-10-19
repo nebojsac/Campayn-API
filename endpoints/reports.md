@@ -34,7 +34,7 @@ Retrieve report urls along with other useful data, of sent and scheduled emails 
     ]
 
 If requested as above, you will get all reports urls regardless of the date. There are two optional parameters: `from` and `to`. Based on your needs you can provide both, none or just one of them.
-These parameters must be in **microtime** format. For example in PHP: `$myDate = strtotime('2015-01-01 00:00:00');` which gives `1420070400`.
+These parameters must be in **microtime** format. Also all dates are in **UTC** timezone. For example in PHP: `$myDate = strtotime('2015-01-01 00:00:00');` which gives `1420070400`.
 
 So let's say you want to get all email reports from 2015-01-01 00:00:00 until now, the request would look like this:
 
