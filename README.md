@@ -34,6 +34,7 @@ API Endpoints
 * [Contacts](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/contacts.md)
 * [Forms](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/forms.md)
 * [Emails](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/emails.md)
+* [Reports](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/reports.md)
 
 
 (Hint: Press `t` to enable the file finder and type out the endpoint you need!)
