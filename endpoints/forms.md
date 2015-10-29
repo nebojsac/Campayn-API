@@ -49,5 +49,7 @@ TODO add data reference.
 
 `GET /lists/{list_id}/forms.json?filter[form_type]=2` returns a collection of **Wordpress Signup** forms that are associated with that specific list.
 
+`GET /lists/{list_id}/forms.json?filter[form_type]=3` returns a collection of **Facebook Signup** forms that are associated with that specific list.
+
 
 See `lists` endpoint for information on how to get the list id.
