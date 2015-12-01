@@ -90,7 +90,7 @@ TODO
 SSL Usage
 ---------
 
-The API doesn't currently use SSL, but will in the future.
+The API supports SSL, just use https in your endpoint urls.
 
 
 Conventions in the API documentation
