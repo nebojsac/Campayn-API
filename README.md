@@ -13,7 +13,7 @@ Wrappers and example code
 
 [PHP wrapper by MirslavMerinsky](https://github.com/MiroslavMerinsky/Campayn)
 
-[Sample PHP code](https://github.com/nebojsac/Campayn-API/blob/master/sample/curl_subscribe.php)
+[Sample PHP code](/samples/curl_subscribe.php)
 
 Wrote your own API wrapper? Feel free to open a pull request and add to this list!
 
