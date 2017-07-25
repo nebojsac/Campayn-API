@@ -1,7 +1,26 @@
 Contacts
 ========
 
-TODO add data reference
+## Basic Signup example
+
+`POST /lists/{list_id}/contacts.json` where `{list_id}` is the ID of the list you're adding to. The simplest example:
+
+```json
+{
+	"email" : "sample@email.com"
+}
+```
+
+But you might want to fail for duplicate contacts. In that case add the `failOnDuplicate` flag:
+
+```json
+{
+	"email" : "sample@email.com",
+	"failOnDuplicate" : true
+}
+```
+
+For a more complete example, see bellow. For a code sample see: [Simple subscribe code via Curl](/samples/curl_subscribe.php)
 
 ## Get Contacts ##
 

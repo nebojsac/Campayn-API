@@ -9,6 +9,9 @@ $fields = array(
     'last_name'=>'Sample' // optional
 );
 
+// if you want the request to fail for duplicate contacts, uncomment this:
+// $fields['failOnDuplicate'] = true;
+
 $url = 'https://campayn.com/api/v1/lists/' . $listId . '/contacts.json';
 $curl = curl_init($url);
 curl_setopt($curl,CURLOPT_RETURNTRANSFER,true);
